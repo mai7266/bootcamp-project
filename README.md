@@ -1,8 +1,8 @@
-# Your project title
+# Job Career
 
 DSA project template for the Bootcamp on Nov 1st, 2025. 
 
-Provide a https://www.kaggle.com/discussions/general/584533
+Our dataset: https://www.kaggle.com/discussions/general/584533
 
 Briefly _explain_ your **hypothesis**.
 
