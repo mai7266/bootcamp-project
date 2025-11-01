@@ -14,14 +14,3 @@ Our **hypothesis**.
 7. What is the importance of education in a job?
 8. What is the main responsibility of the role in the job?
 9. What makes you qualified for a job?
-
-
-## Sub headings
-
-More info:
-- item1
-- item2
-
-We will do the following:
-1. number 1
-2. number 2
