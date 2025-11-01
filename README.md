@@ -4,7 +4,7 @@ DSA project template for the Bootcamp on Nov 1st, 2025.
 
 Our dataset: https://www.kaggle.com/discussions/general/584533
 
-Briefly _explain_ your **hypothesis**.
+Our **hypothesis**.
 1.What is the job market looking like?
 2.What is the future of the job market?
 3.What does the job depend on?
