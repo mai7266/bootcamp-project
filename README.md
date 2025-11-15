@@ -4,6 +4,9 @@ DSA project template for the Bootcamp on Nov 1st, 2025.
 
 Our dataset: ([https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset?resource=download&select=job_descriptions.csv](https://www.kaggle.com/code/hasibalmuzdadid/data-science-jobs-salary-analysis-retro-vibe))
 
+
+[Notebook](JobsCareer (1).html)
+
 Our **hypothesis**.
 1. What is the job market looking like?
 2. What is the future of the job market?
